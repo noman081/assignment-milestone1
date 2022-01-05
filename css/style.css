@@ -33,3 +33,30 @@ body{
     margin-top: 10%;
     border-radius: 7px;
 }
+.my-mission{
+    display: flex;
+    margin: 0 10%;
+    margin-bottom: 100px;
+    
+}
+.my-mission h1{
+    text-align: center;
+}
+.mission-list{
+    padding: 2%;
+
+    border-radius: 7px;
+    margin: 10px 20px;
+}
+.illustrators{
+    width: 40%;
+}
+#illustrator-1{
+    background-color: lightblue;
+}
+#illustrator-2{
+    background-color: rgb(250, 223, 246);
+}
+#illustrator-3{
+    background-color: rgb(242, 243, 173);
+}
