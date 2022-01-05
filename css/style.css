@@ -5,12 +5,15 @@ body{
 .blue-color{
     color: rgb(16, 174, 214);
 }
-.header-section{
+.flexible{
     display: flex;
     padding: 5%;
 }
 .half-width{
     width: 50%;
+}
+.half-width p{
+    margin-bottom: 50px;
 }
 .mission{
     border-left: 2px solid red;
@@ -21,8 +24,9 @@ body{
     margin-bottom: 30px;
 }
 .picture{
-    width: 50%;
-    padding-left: 30%;
+    width: 70%;
+    height: 70%;
+    padding-left: 10%;
 }
 .link-button{
     text-decoration: none;
@@ -30,13 +34,12 @@ body{
     padding: 10px 20px;
     font-weight: 700;
     color: white;
-    margin-top: 10%;
     border-radius: 7px;
 }
 .my-mission{
     display: flex;
     margin: 0 10%;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     
 }
 .my-mission h1{
@@ -59,4 +62,7 @@ body{
 }
 #illustrator-3{
     background-color: rgb(242, 243, 173);
+}  
+#develop{
+    /* need to add a background*/
 }
