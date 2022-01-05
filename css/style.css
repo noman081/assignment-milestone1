@@ -66,3 +66,13 @@ body{
 #develop{
     /* need to add a background*/
 }
+footer{
+    background-color: rgb(1, 1, 19);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+footer h1{
+    font-size: 30px;
+    font-style: italic;
+}
