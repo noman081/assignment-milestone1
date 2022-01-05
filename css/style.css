@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+.blue-color{
+    color: rgb(16, 174, 214);
+}
+.header-section{
+    display: flex;
+    padding: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.mission{
+    border-left: 2px solid red;
+    padding-left: 5px;
+}
+.mission-details{
+    text-align: justify;
+    margin-bottom: 30px;
+}
+.picture{
+    width: 50%;
+    padding-left: 30%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    margin-top: 10%;
+    border-radius: 7px;
+}
