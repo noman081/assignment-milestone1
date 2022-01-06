@@ -62,9 +62,19 @@ body{
 }
 #illustrator-3{
     background-color: rgb(242, 243, 173);
-}  
+}
 #develop{
-    /* need to add a background*/
+    background-image: url(/images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left;
+}
+.community{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right;
+
 }
 footer{
     background-color: rgb(1, 1, 19);
