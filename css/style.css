@@ -24,8 +24,8 @@ body{
     margin-bottom: 30px;
 }
 .picture{
-    width: 70%;
-    height: 70%;
+    width: 80%;
+    height: 80%;
     padding-left: 10%;
 }
 .link-button{
@@ -75,4 +75,29 @@ footer{
 footer h1{
     font-size: 30px;
     font-style: italic;
+}
+.quater{
+    width: 20%;
+    border-radius: 10px;
+}
+
+#skill{
+    background-image: linear-gradient(white, lightblue);
+    color: black;
+}
+.skill-list{
+    margin-left: 12%;
+    text-align: center;
+}
+#skill img:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.icon{
+    margin: 0 5px;
+    width: 30%;
+}
+.icon-name{
+    color: black;
+    text-align: center;
 }
