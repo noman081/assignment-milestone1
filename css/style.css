@@ -79,30 +79,16 @@ h1{
     background-position: right;
 
 }
-footer{
-    background-color: rgb(1, 1, 19);
-    padding: 10px;
-    text-align: center;
-    color: white;
-}
-footer h1{
-    font-size: 30px;
-    font-style: italic;
-}
 .quater{
     width: 20%;
     border-radius: 10px;
 }
 
-#skill{
-    background-image: linear-gradient(white, lightblue);
-    color: black;
-}
 .skill-list{
     margin-left: 12%;
     text-align: center;
 }
-#skill img:hover{
+.skill img:hover{
     transform: scale(1.1);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -113,4 +99,15 @@ footer h1{
 .icon-name{
     color: black;
     text-align: center;
+}
+footer{
+    background-color: rgb(1, 1, 19);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+footer h1{
+    font-size: 30px;
+    font-style: italic;
 }
