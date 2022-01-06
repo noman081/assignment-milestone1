@@ -2,6 +2,9 @@ body{
     font-family: 'Roboto Mono', monospace;
     margin: 0;
 }
+h1{
+    font-size: 30px;
+}
 .blue-color{
     color: rgb(16, 174, 214);
 }
@@ -69,10 +72,10 @@ body{
     background-size: 20%;
     background-position: left;
 }
-.community{
+#community{
     background-image: url(/images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 20%;
+    background-size: 15%;
     background-position: right;
 
 }
